@@ -1,4 +1,4 @@
-# exl1
+# exl_practice
 
 This is a dummy project for hari
 
@@ -8,4 +8,4 @@ f1
 f2
 f3
 
-&copy: 2023 exl 
+&copy 2023 exl 
